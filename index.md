@@ -1,5 +1,3 @@
-## Rangkum Materi Pertemuan 8-14
-
 # Jaringan Seluler	
 Mengenal Jaringan Seluler 1G, 2G, 3G, 4G, dan 5G - Ketika Anda terhubung ke internet, kecepatan internet akan sangat bergantung pada kekuatan sinyal yang ditampilkan di telepon selular dalam bentuk seperti 2G, 3G, 4G dll. “G” itu sendiri merupakan singkatan dari generasi (generation). Setiap Generasi akan memiliki standar tertentu yang harus di sesuaikan dengan standar jaringan telepon dan sistem telepon seluler pada saat itu. Setiap generasi pastinya akan selalu membawa frekuensi baru, kecepatan data yang semakin tinggi, dan teknologi transmisi terbaru.
 Seperti yang sudah banyak diketahui, saat ini jaringan 5G sedang dalam proses pengembangan. Bahkan di beberapa negara maju jaringan 5G sudah bisa digunakan. Jaringan 5G diperkirakan akan diluncurkan secara komersil di seluruh dunia pada tahun 2020. Dengan bekerja sama dengan teknologi pendahulunya yaitu 3G dan 4G untuk menyediakan koneksi yang lebih cepat dan tetap terhubung di mana pun Anda berada. Mari sedikit flashback untuk mengenal awal mula dari jaringan seluler mulai dari 1G sampai yang terbaru yaitu 5G.
